@@ -3,8 +3,8 @@
 # Contexto
 Nesse projeto foi desenvolvido um carrinho de compras totalmente dinâmico, consumindo dados diretamente de uma API. Através de requisições HTTP a essa API é possível interagir com ela da forma como quem a criou planejou. Aqui foi utilizada a API do Mercado Livre para buscarmos produtos à venda.
 
-Confira aqui o Pull Request desse projeto com a pontuação final: https://github.com/tryber/sd-010-a-project-shopping-cart/pull/60
-Confira e teste a aplicação aqui: https://shopping-cart-elisa.herokuapp.com/
+* Confira aqui o Pull Request desse projeto com a pontuação final: https://github.com/tryber/sd-010-a-project-shopping-cart/pull/60
+* Confira e teste a aplicação aqui: https://shopping-cart-elisa.herokuapp.com/
 
 ## Habilidades
 
